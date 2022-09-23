@@ -14,7 +14,7 @@ Jinja2==2.10
 jsonschema==2.6.0
 MarkupSafe==1.1.1
 prompt-toolkit==2.0.9
-protobuf==3.7.0
+protobuf==3.18.3
 pymessenger==0.0.7.0
 requests==2.21.0
 requests-toolbelt==0.9.1
